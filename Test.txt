@@ -1,7 +1,1 @@
-Nguyễn Thanh Quân
-Chào Bảo NÈ
-hihihi
-hahahahaha
-Konichiwa
-Hello
-How are you?
+address: 1234
